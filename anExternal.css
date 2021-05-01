@@ -1,0 +1,55 @@
+body {
+}
+
+p {
+}
+
+h3 {
+}
+
+li {
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+#Newbie img{
+	width: 50px;
+	height: 50px;
+}
+
+#Newbie_p1 {
+	font-family: "Lucida Console";
+	text-align: center;
+}
+
+#Newbie_p2 {
+	font-family: "Times New Roman";
+}
+
+#Apprentice {
+	position: relative;
+	margin-left:50px;
+	margin-right:50px;
+	display: inline-block;
+}
+
+#Centertext {
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	text-align: center
+}
+
+#Master img{
+	float: left;
+	width: 50px;
+	height: 50px;
+}
+
+#Master p{
+	border: 2px solid red;
+	border-radius: 5px;
+}
